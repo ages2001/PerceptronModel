@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerceptronModel", "PerceptronModel.csproj", "{5C9CADCE-CC71-45A0-A9D2-78BDECE152CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C9CADCE-CC71-45A0-A9D2-78BDECE152CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C9CADCE-CC71-45A0-A9D2-78BDECE152CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C9CADCE-CC71-45A0-A9D2-78BDECE152CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C9CADCE-CC71-45A0-A9D2-78BDECE152CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7530E042-4D27-4FED-81FD-1142B3D44E18}
+	EndGlobalSection
+EndGlobal
